@@ -14,7 +14,7 @@ Score keeps on updating as soon as the bord passes a pipe.
 
 ___
 ### Progress
-* [x]Bird Fyying
+* [x]Bird Flying
 * [x]Base rolling
 * [x]Pipes Displaying
 * [x]Pipes moving
