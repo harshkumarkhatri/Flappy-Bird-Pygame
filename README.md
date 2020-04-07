@@ -14,10 +14,10 @@ Score keeps on updating as soon as the bord passes a pipe.
 
 ___
 ### Progress
-* [x]Bird Flying
-* [x]Base rolling
-* [x]Pipes Displaying
-* [x]Pipes moving
-* [x]Score updating and displaying
-* [ ]Controlling the bird with key events
-* [ ]Collision control(currently nothing happens on collision)
+* [x] Bird Flying
+* [x] Base rolling
+* [x] Pipes Displaying
+* [x] Pipes moving
+* [x] Score updating and displaying
+* [ ] Controlling the bird with key events
+* [ ] Collision control(currently nothing happens on collision)

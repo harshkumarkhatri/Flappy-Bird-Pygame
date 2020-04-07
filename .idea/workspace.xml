@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7f621af-7ca0-4ebd-8c00-244e460805bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READ ME.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586244428133</updated>
-      <workItem from="1586244430362" duration="14293000" />
+      <workItem from="1586244430362" duration="14405000" />
     </task>
     <task id="LOCAL-00001" summary="Completed the display of bird and its dropping">
       <created>1586250569460</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586264121585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated README.md">
+      <created>1586264308563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586264308563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,17 +108,18 @@
     <MESSAGE value="Completed the display of bird and its dropping" />
     <MESSAGE value="added base ,pipes along with both moving, score is also updating." />
     <MESSAGE value="added a readme file." />
-    <option name="LAST_COMMIT_MESSAGE" value="added a readme file." />
+    <MESSAGE value="updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586248254578">
       <screen x="0" y="27" width="1920" height="1029" />
     </state>
     <state x="0" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1029@0.27.1920.1029" timestamp="1586248254578" />
-    <state x="38" y="137" width="874" height="810" key="CommitChangelistDialog2" timestamp="1586264118686">
+    <state x="38" y="137" width="874" height="810" key="CommitChangelistDialog2" timestamp="1586264308232">
       <screen x="0" y="27" width="1920" height="1029" />
     </state>
-    <state x="38" y="137" width="874" height="810" key="CommitChangelistDialog2/0.27.1920.1029@0.27.1920.1029" timestamp="1586264118686" />
+    <state x="38" y="137" width="874" height="810" key="CommitChangelistDialog2/0.27.1920.1029@0.27.1920.1029" timestamp="1586264308232" />
     <state x="325" y="299" width="424" height="485" key="FileChooserDialogImpl" timestamp="1586248251543">
       <screen x="0" y="27" width="1920" height="1029" />
     </state>
@@ -137,10 +144,10 @@
       <screen x="0" y="27" width="1920" height="1029" />
     </state>
     <state x="0" y="176" width="1022" height="731" key="SettingsEditor/0.27.1920.1029@0.27.1920.1029" timestamp="1586263666601" />
-    <state x="555" y="275" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1586264124269">
+    <state x="555" y="275" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1586264310935">
       <screen x="0" y="27" width="1920" height="1029" />
     </state>
-    <state x="555" y="275" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1029@0.27.1920.1029" timestamp="1586264124269" />
+    <state x="555" y="275" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1029@0.27.1920.1029" timestamp="1586264310935" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/neat_fb_automated$flappBird.coverage" NAME="flappBird Coverage Results" MODIFIED="1586260808243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
